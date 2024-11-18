@@ -1,0 +1,11 @@
+user:
+  name: "Anusha"
+  role: "Cloud Engineer"
+  skills:
+    - Azure
+    - Linux
+    - Shell Scripting
+  certifications:
+    - AZ-900
+    - AZ-104
+    - AI-900
